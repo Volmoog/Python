@@ -5,7 +5,7 @@ import time
 type = 0
 seconde = 0
 
-def nombre_mystère():
+def nombre_mystere():
     global type
     global seconde
     mystere = random.randint(1, 10)
@@ -35,7 +35,7 @@ def chrono():
        
 
 
-nombre_mystère()
+nombre_mystere()
 
 
 
